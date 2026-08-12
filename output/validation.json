@@ -1,0 +1,8 @@
+{
+  "source_valid_rows": 16,
+  "warehouse_rows": 16,
+  "duplicate_order_ids": 0,
+  "source_total_sales": 22022.66,
+  "warehouse_total_sales": 22022.66,
+  "status": "PASS"
+}
